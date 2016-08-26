@@ -20,6 +20,7 @@ GEM
       multipart-post (>= 1.2, < 3)
     ffi (1.9.14)
     forwardable-extended (2.6.0)
+    garth-jekyll-theme (0.2.8)
     gemoji (2.1.0)
     github-pages (93)
       activesupport (= 4.2.7)
@@ -130,7 +131,12 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
+  garth-jekyll-theme (~> 0.2.8)
   github-pages
+  minima
+
+RUBY VERSION
+   ruby 2.3.1p112
 
 BUNDLED WITH
    1.12.5
