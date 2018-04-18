@@ -2,160 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a7c5c9ee-2944-4452-ac17-6b6b09343f28" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.babelrc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.eslintignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.eslintrc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.scss-lint.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.travis.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/404.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LICENSE.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_includes/card.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_includes/critical.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_includes/disqus.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_includes/footer.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_includes/form.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_includes/gtm.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_includes/head.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_includes/header.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_includes/loadCss.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_includes/logo.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_includes/mathjax.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_includes/modal.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_includes/pagination.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_includes/sw.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_js/scripts.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_layouts/compress.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_layouts/default.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_layouts/page.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_layouts/post.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/2016-05-20-super-long-article.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/2017-10-15-markdown-cheatsheet.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/2017-11-26-getting-started.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/2018-03-25-showtime.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_sass/abstracts/_mixins.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_sass/abstracts/_variables.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_sass/base/_base.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_sass/base/_helpers.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_sass/base/_typography.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_sass/components/_btn.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_sass/components/_card.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_sass/components/_form.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_sass/components/_modal.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_sass/components/_pagination.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_sass/components/_syntax.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_sass/components/_table.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_sass/layout/_footer.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_sass/layout/_grid.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_sass/layout/_nav.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_sass/main.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_sass/pages/_page.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_sass/pages/_post.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_sass/vendor/_breakpoint.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_sass/vendor/_normalize.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/css/main.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/favicon.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/icons/android-chrome-192x192.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/icons/android-chrome-256x256.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/icons/apple-touch-icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/icons/browserconfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/icons/favicon-16x16.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/icons/favicon-32x32.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/icons/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/icons/icon-github.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/icons/icon-instagram.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/icons/icon-twitter.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/icons/linkedin.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/icons/linkedin_hover.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/icons/manifest.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/icons/mstile-150x150.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/icons/safari-pinned-tab.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/posts/black-and-white-computer-device-331684.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/posts/black-and-white-computer-device-331684_lg.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/posts/black-and-white-computer-device-331684_md.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/posts/black-and-white-computer-device-331684_placehold.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/posts/black-and-white-computer-device-331684_sm.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/posts/black-and-white-computer-device-331684_thumb.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/posts/black-and-white-computer-device-331684_thumb@2x.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/posts/black-and-white-computer-device-331684_xs.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/posts/black-and-white-computer-display-220357.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/posts/black-and-white-computer-display-220357_lg.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/posts/black-and-white-computer-display-220357_md.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/posts/black-and-white-computer-display-220357_placehold.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/posts/black-and-white-computer-display-220357_sm.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/posts/black-and-white-computer-display-220357_thumb.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/posts/black-and-white-computer-display-220357_thumb@2x.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/posts/black-and-white-computer-display-220357_xs.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/posts/book-books-bookshelf-159621.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/posts/book-books-bookshelf-159621_lg.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/posts/book-books-bookshelf-159621_md.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/posts/book-books-bookshelf-159621_placehold.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/posts/book-books-bookshelf-159621_sm.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/posts/book-books-bookshelf-159621_thumb.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/posts/book-books-bookshelf-159621_thumb@2x.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/posts/book-books-bookshelf-159621_xs.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/posts/close-up-computer-keyboard-18547.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/posts/close-up-computer-keyboard-18547_lg.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/posts/close-up-computer-keyboard-18547_md.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/posts/close-up-computer-keyboard-18547_placehold.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/posts/close-up-computer-keyboard-18547_sm.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/posts/close-up-computer-keyboard-18547_thumb.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/posts/close-up-computer-keyboard-18547_thumb@2x.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/posts/close-up-computer-keyboard-18547_xs.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/posts/coding-computer-hacker-97077.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/posts/coding-computer-hacker-97077_lg.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/posts/coding-computer-hacker-97077_md.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/posts/coding-computer-hacker-97077_placehold.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/posts/coding-computer-hacker-97077_sm.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/posts/coding-computer-hacker-97077_thumb.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/posts/coding-computer-hacker-97077_thumb@2x.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/posts/coding-computer-hacker-97077_xs.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/posts/emile-perron-190221.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/posts/emile-perron-190221_lg.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/posts/emile-perron-190221_md.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/posts/emile-perron-190221_placehold.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/posts/emile-perron-190221_sm.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/posts/emile-perron-190221_thumb.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/posts/emile-perron-190221_thumb@2x.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/posts/emile-perron-190221_xs.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/posts/shane-rounce-205187.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/posts/shane-rounce-205187_lg.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/posts/shane-rounce-205187_md.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/posts/shane-rounce-205187_placehold.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/posts/shane-rounce-205187_sm.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/posts/shane-rounce-205187_thumb.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/posts/shane-rounce-205187_thumb@2x.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/posts/shane-rounce-205187_xs.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/posts/sleek.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/posts/sleek_lg.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/posts/sleek_md.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/posts/sleek_placehold.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/posts/sleek_sm.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/posts/sleek_thumb.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/posts/sleek_thumb@2x.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/posts/sleek_xs.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/js/bundle.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contact.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gulpfile.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jekyll-sleek.gemspec" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/script/bootstrap" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/script/cibuild" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/script/server" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sleek.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sw.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/2016-02-02-web-components-in-es6.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/posts/auditorium-chairs-comfortable-269140.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/posts/auditorium-chairs-comfortable-269140_lg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/posts/auditorium-chairs-comfortable-269140_md.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/posts/auditorium-chairs-comfortable-269140_placehold.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/posts/auditorium-chairs-comfortable-269140_sm.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/posts/auditorium-chairs-comfortable-269140_thumb.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/posts/auditorium-chairs-comfortable-269140_thumb@2x.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/posts/auditorium-chairs-comfortable-269140_xs.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/404.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CNAME" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Gemfile" beforeDir="false" afterPath="$PROJECT_DIR$/Gemfile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Gemfile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/Gemfile.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_config.yml.orig" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2018-03-18-welcome-to-jekyll.markdown" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2016-05-20-welcome-to-jekyll.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/about.md" beforeDir="false" afterPath="$PROJECT_DIR$/about.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/index.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -172,17 +28,17 @@
       <file leaf-file-name="post.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_layouts/post.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
+            <state relative-caret-position="544">
               <caret line="32" column="19" selection-start-line="30" selection-start-column="12" selection-end-line="32" selection-end-column="19" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="header.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="header.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_includes/header.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" column="10" selection-start-line="6" selection-start-column="10" selection-end-line="6" selection-end-column="10" />
+            <state relative-caret-position="85">
+              <caret line="5" column="10" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
             </state>
           </provider>
         </entry>
@@ -190,7 +46,7 @@
       <file leaf-file-name="head.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_includes/head.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="413">
+            <state relative-caret-position="459">
               <caret line="27" column="30" selection-start-line="27" selection-start-column="30" selection-end-line="27" selection-end-column="30" />
             </state>
           </provider>
@@ -207,11 +63,53 @@
       </file>
       <file leaf-file-name="2018-03-25-showtime.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_posts/2018-03-25-showtime.md">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" selection-start-line="4" selection-end-line="4" />
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor>
+                <caret selection-end-line="5" selection-end-column="3" />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="2016-02-02-web-components-in-es6.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_posts/2016-02-02-web-components-in-es6.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="187">
+                <caret line="11" selection-start-line="11" selection-end-line="11" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="2017-11-26-getting-started.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_posts/2017-11-26-getting-started.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="255">
+                <caret line="20" selection-start-line="20" selection-end-line="20" selection-end-column="18" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="2016-05-20-welcome-to-jekyll.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_posts/2016-05-20-welcome-to-jekyll.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor />
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -259,6 +157,7 @@
         <option value="$PROJECT_DIR$/_includes/footer.html" />
         <option value="$PROJECT_DIR$/_sass/layout/_footer.scss" />
         <option value="$PROJECT_DIR$/_includes/header.html" />
+        <option value="$PROJECT_DIR$/_posts/2016-02-02-web-components-in-es6.md" />
       </list>
     </option>
   </component>
@@ -277,6 +176,11 @@
   </component>
   <component name="NodeModulesDirectoryManager">
     <handled-path value="$PROJECT_DIR$/node_modules" />
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths>
+      <path value="$PROJECT_DIR$/package.json" />
+    </packageJsonPaths>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="260" />
@@ -312,26 +216,6 @@
             <path>
               <item name="MrShaneH.github.io" type="b2602c69:ProjectViewProjectNode" />
               <item name="MrShaneH.github.io" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="MrShaneH.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MrShaneH.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="_img" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="MrShaneH.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MrShaneH.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="_includes" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="MrShaneH.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MrShaneH.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="_layouts" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="MrShaneH.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MrShaneH.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="_posts" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -397,35 +281,37 @@
       <workItem from="1522101348914" duration="114000" />
       <workItem from="1522102051669" duration="5440000" />
       <workItem from="1522185013557" duration="5388000" />
+      <workItem from="1524092720200" duration="22000" />
+      <workItem from="1524092769213" duration="1074000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="23479000" />
+    <option name="totallyTimeSpent" value="25049000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
     <editor active="true" />
     <layout>
+      <window_info id="Gulp" order="2" sideWeight="0.5127119" side_tool="true" weight="0.21073826" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.48728815" visible="true" weight="0.21073826" />
       <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.33975086" />
-      <window_info id="npm" order="4" sideWeight="0.509887" side_tool="true" weight="0.13284865" />
-      <window_info anchor="right" id="Terminal" order="3" visible="true" weight="0.28255033" />
-      <window_info id="Gulp" order="2" sideWeight="0.511579" side_tool="true" weight="0.13284865" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.48842105" visible="true" weight="0.20536913" />
-      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Find" order="1" visible="true" weight="0.32909605" />
+      <window_info id="npm" order="4" sideWeight="0.5127119" side_tool="true" weight="0.21073826" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Terminal" order="3" weight="0.28255033" />
       <window_info id="Favorites" order="3" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" visible="true" weight="0.32909605" />
     </layout>
     <layout-to-restore>
       <window_info id="Gulp" order="2" sideWeight="0.511579" side_tool="true" weight="0.13284865" />
@@ -434,19 +320,19 @@
       <window_info anchor="bottom" id="Run" order="2" weight="0.33975086" />
       <window_info content_ui="combo" id="Project" order="0" sideWeight="0.48842105" weight="0.20268457" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="right" id="Terminal" order="3" visible="true" weight="0.7053691" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info id="Favorites" order="3" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info id="Favorites" order="3" side_tool="true" />
     </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -456,6 +342,13 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/_includes/header.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="10" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/_layouts/post.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="544">
@@ -509,10 +402,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="3400">
           <caret line="200" column="22" selection-start-line="200" selection-start-column="22" selection-end-line="200" selection-end-column="22" />
-          <folding>
-            <element signature="e#4268#5133#0" />
-            <marker date="1522189795603" expanded="true" signature="567:578" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -527,10 +416,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1768">
           <caret line="104" column="5" selection-start-line="104" selection-start-column="5" selection-end-line="104" selection-end-column="5" />
-          <folding>
-            <element signature="e#4268#5133#0" />
-            <marker date="1522189795603" expanded="true" signature="567:578" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -561,10 +446,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2184">
           <caret line="104" column="5" selection-start-line="104" selection-start-column="5" selection-end-line="104" selection-end-column="5" />
-          <folding>
-            <element signature="e#4268#5133#0" />
-            <marker date="1522189795603" expanded="true" signature="567:578" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -689,38 +570,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2018-03-25-showtime.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" selection-start-line="4" selection-end-line="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2016-05-20-super-long-article.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="16" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_config.yml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
           <caret line="18" column="34" selection-start-line="18" selection-start-column="6" selection-end-line="18" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2017-11-26-getting-started.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="139">
-          <caret line="18" column="167" selection-start-line="18" selection-start-column="164" selection-end-line="18" selection-end-column="167" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2016-05-20-welcome-to-jekyll.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="16" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
         </state>
       </provider>
     </entry>
@@ -735,10 +588,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1734">
           <caret line="163" column="28" selection-start-line="163" selection-start-column="28" selection-end-line="163" selection-end-column="28" />
-          <folding>
-            <element signature="e#4268#5133#0" />
-            <marker date="1522189795603" expanded="true" signature="567:578" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -753,9 +602,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="323">
           <caret line="19" column="18" selection-start-line="19" selection-start-column="18" selection-end-line="19" selection-end-column="39" />
-          <folding>
-            <element signature="e#5072#5078#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -768,24 +614,93 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/_layouts/post.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
+        <state relative-caret-position="544">
           <caret line="32" column="19" selection-start-line="30" selection-start-column="12" selection-end-line="32" selection-end-column="19" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/_includes/head.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="413">
+        <state relative-caret-position="459">
           <caret line="27" column="30" selection-start-line="27" selection-start-column="30" selection-end-line="27" selection-end-column="30" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/_includes/header.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="10" selection-start-line="6" selection-start-column="10" selection-end-line="6" selection-end-column="10" />
+        <state relative-caret-position="85">
+          <caret line="5" column="10" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2018-03-25-showtime.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor>
+            <caret selection-end-line="5" selection-end-column="3" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2016-05-20-super-long-article.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="16" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2016-02-02-web-components-in-es6.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="187">
+            <caret line="11" selection-start-line="11" selection-end-line="11" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2017-11-26-getting-started.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="255">
+            <caret line="20" selection-start-line="20" selection-end-line="20" selection-end-column="18" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="139">
+          <caret line="18" column="167" selection-start-line="18" selection-start-column="164" selection-end-line="18" selection-end-column="167" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2016-05-20-welcome-to-jekyll.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="16" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
   <component name="masterDetails">
